@@ -1,41 +1,54 @@
 # OFFICIAL kharYsma coins Repo on github
 
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KharYsma Coins (KHACN) - Une nouvelle ère pour la tokenisation</title>
-</head>
-<body>
-    <h1>KharYsma Coins (KHACN) - Une nouvelle ère pour la tokenisation</h1>
+KharYsma Coins (KHACN) - A New Era of Tokenization
 
-    <a href="https://etherscan.io/address/0xda0ba67e1801d0c31f1cafb8197f1db4a52dbcab#code">
-        <img src="https://github.com/startar-bronze/khacngit/blob/main/KHAC%20kharYsma%20coin%20Logo.jpg" alt="Logo KHACN" style="display: block; margin: 0 auto; max-width: 200px;">
-    </a>
+<img src="https://github.com/startar-bronze/khacngit/blob/main/KHAC%20kharYsma%20coin%20Logo.jpg" alt="Logo KHACN" width="200">
 
-    <p><strong>KharYsma Coins (KHACN)</strong> est un token ERC20 conçu pour révolutionner la finance décentralisée (DeFi). Grâce à des fonctionnalités avancées pour la gestion de liquidité, le market making automatisé et l’intégration multi-plateformes, KHACN établit un pont entre les modèles économiques traditionnels et l’innovation moderne du DeFi.</p>
+KharYsma Coins (KHACN) is an ERC20 token designed to revolutionize decentralized finance (DeFi). With advanced features like liquidity management, automated market making, and multi-platform integration, KHACN bridges the gap between traditional economic models and modern DeFi innovations.
 
-    <h2>Caractéristiques principales :</h2>
-    <ul>
-        <li><strong>Offre limitée</strong> : Une offre plafonnée à 10 millions de KHACN garantit une rareté et une valorisation à long terme.</li>
-        <li><strong>Intégration DeFi</strong> : Compatibilité avec Uniswap et Chainlink pour des opérations de marché fluides et des mises à jour de prix en temps réel.</li>
-        <li><strong>Sécurité avancée</strong> : Équipé de mécanismes éprouvés comme les fonctions <code>Pausable</code> et <code>ReentrancyGuard</code> pour une protection optimale.</li>
-        <li><strong>Market Making</strong> : Provision automatique de liquidités et échange de tokens pour des opérations de marché efficaces.</li>
-        <li><strong>Croissance dynamique</strong> : Validation et adaptation automatiques aux nouvelles plateformes pour soutenir une expansion durable de l'écosystème.</li>
-    </ul>
+See khacn on etherscan , https://etherscan.io/address/0xda0ba67e1801d0c31f1cafb8197f1db4a52dbcab#code
 
-    <h2>État actuel :</h2>
-    <p>Le contrat intelligent a été testé de manière rigoureuse sur le testnet Sepolia. Il intègre des fonctionnalités modulaires pour fournir une base solide et sécurisée. Un whitepaper complet est en cours de rédaction pour présenter notre vision à long terme.</p>
+Key Features
+Limited Supply: A capped supply of 10 million KHACN ensures rarity and long-term value.
+DeFi Integration: Compatible with Uniswap and Chainlink for seamless market operations and real-time price updates.
+Advanced Security: Equipped with proven mechanisms like Pausable and ReentrancyGuard for maximum protection.
+Market Making: Automated liquidity management and token exchanges for efficient market operations.
+Dynamic Growth: Automatic validation and adaptation to new platforms to support sustainable ecosystem expansion.
 
-    <h2>Un projet artistique et utilitaire :</h2>
-    <p>KharYsma Coins (KHACN) tire son nom et son inspiration de l’artiste international <strong>KharYsma Arafat NZABA</strong>, connu pour ses multiples talents : musicien, peintre, écrivain, photographe et fonctionnaire. Ce token repose sur un écosystème solide basé sur les créations réelles de l’artiste (livres, musiques, œuvres d’art) accessibles sur son <a href="https://kharysma-an.fr">site officiel</a>.</p>
-    <p>À terme, nous envisageons une marketplace dédiée au KHACN regroupant ces produits et bien plus, un potentiel <strong>DAO</strong> et son utilisation dans les achats du quotidien.</p>
+Current State
+The smart contract has undergone rigorous testing on the Sepolia testnet. It incorporates modular features to ensure a secure and robust foundation. A comprehensive whitepaper is currently being drafted to present our long-term vision.
 
-    <h2>Plus d'infos :</h2>
-    <p>Rejoignez-nous sur le <a href="https://www.facebook.com/kharYsmaan">Facebook officiel de l’artiste</a> où toutes les annonces seront publiées. Le site web officiel sera accessible sous peu à cette adresse : <a href="https://khacn.startarcoins.com">https://khacn.startarcoins.com</a>.</p>
+An Artistic and Utility-Driven Project
 
-    <h2>Note importante :</h2>
-    <p>Le nom et le logo <strong>KharYsma Coins</strong> sont protégés par les droits d’auteur.</p>
-</body>
-</html>
+The name and identity of KharYsma Coins (KHACN) are inspired by the international artist KharYsma Arafat NZABA, a multi-talented individual: musician, painter, writer, photographer, and government official. KHACN is based on a real and tangible ecosystem, including the artist’s creations (books, music, artworks), which you can explore on the official website.
+
+Future Vision
+
+A dedicated marketplace where KHACN can be used to purchase products related to the artist and beyond.
+Potential for a DAO to manage the ecosystem.
+Everyday usability of KHACN for routine transactions.
+
+More Information
+
+Official Website: https://khacn.startarcoins.com (coming soon).
+Stay Updated: Follow the artist’s Facebook page for all major announcements, https://www.facebook.com/kharYsmaan
+
+Adding KHACN as a Custom Token on Trust Wallet and MetaMask
+
+Trust Wallet:
+Open Trust Wallet and click on "Add Custom Token."
+Paste the official contract address:
+https://etherscan.io/address/0xda0ba67e1801d0c31f1cafb8197f1db4a52dbcab#code.
+Configure the parameters (Name: KharYsma Coins, Symbol: KHACN, Decimals: 18).
+Confirm to finalize.
+
+MetaMask:
+Open MetaMask and click on "Import Token."
+Paste the same official contract address.
+Enter the name, symbol, and decimals as mentioned above.
+Save to complete the process.
+
+Email: contact@startarcoins.com
+
+Important Note
+The name and logo of KharYsma Coins (KHACN) are protected under copyright. Unauthorized use is strictly prohibited.
