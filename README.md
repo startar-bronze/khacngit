@@ -26,7 +26,7 @@ The smart contract has undergone rigorous testing on the Sepolia testnet. It inc
 
 # An Artistic and Utility-Driven Project
 
-The name and identity of KharYsma Coins (KHACN) are inspired by the international artist KharYsma Arafat NZABA, a multi-talented individual: musician, painter, writer, photographer, and government official. KHACN is based on a real and tangible ecosystem, including the artist’s creations (books, music, artworks), which you can explore on the official website.
+The name and identity of KharYsma Coins (KHACN) are inspired by the international artist KharYsma Arafat NZABA, a multi-talented individual: musician, painter, writer, photographer, and government official. KHACN is based on a real and tangible ecosystem, including the artist’s creations (books, music, artworks), which you can explore on the official website https://kharysma-an.fr
 
 # Future Vision
 
