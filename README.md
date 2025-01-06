@@ -2,7 +2,7 @@
 
 KharYsma Coins (KHACN) - A New Era of Tokenization
 
-<img src="https://github.com/startar-bronze/khacngit/blob/main/KHAC%20kharYsma%20coin%20Logo.jpg" alt="Logo KHACN" width="200">
+<img src="![KHAC kharYsma coin Logo](https://github.com/user-attachments/assets/4a22eaaf-2424-46f5-8399-e146abec6d81)" alt="Logo KHACN" width="200">
 
 KharYsma Coins (KHACN) is an ERC20 token designed to revolutionize decentralized finance (DeFi). With advanced features like liquidity management, automated market making, and multi-platform integration, KHACN bridges the gap between traditional economic models and modern DeFi innovations.
 
