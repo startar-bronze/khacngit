@@ -58,3 +58,5 @@ Email: contact@startarcoins.com
 
 # Important Note
 The name and logo of KharYsma Coins (KHACN) are protected under copyright. Unauthorized use is strictly prohibited.
+![copyrightfrance-logo1](https://github.com/user-attachments/assets/c62e64dc-6090-4ea2-af4d-2c9ff106fee5)
+
