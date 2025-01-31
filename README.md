@@ -69,6 +69,48 @@ Save to complete the process.
 
 Email: contact@startarcoins.com
 
+# RESUME
+
+KHACN Coins is an innovative ERC20 token designed to transform decentralized finance (DeFi) by leveraging a real ecosystem from the vision and creations of international artist KharYsma Arafat NZABA. It is a utility token
+
+kharYsma coins is not a simple ERC20 token. It is a utility token based on the tangible assets of the artist KharYsma Arafat NZABA, including musical works, paintings, books and more. The goal of KHACN is to merge creative value with the infinite possibilities of blockchain and DeFi.
+
+The more good things there are in the life of the personality kharYsma Arafat NZABA, the better the khacn cryptocurrency will fare in the token market.
+
+# Who is kharYsma Arafat NZABA ? 
+
+
+
+Artist, entrepreneur and State Official, Male, kharYsma Arafat NZABA, real name NZABA MOUNGUENGUE Bouesse Arafat, is a multifaceted personality whose artistic and professional achievements deserve to be tokenized.
+
+
+
+His website for his biography is https://www.kharysma-an.fr
+
+
+
+And below some links to his works:
+
+
+
+https://open.spotify.com/intl-fr/artist/0woprxb5wJHNG9yeZOXeG1
+
+
+
+https://music.amazon.fr/podcasts/b1c1f76b-33ce-436a-92f0-57a9ef4e0377/les-billets-de-kharysma-lbdk
+
+
+
+https://www.amazon.com/s?i=stripbooks&rh=p_27%3AS.E%2BBOUESSE&s=relevancerank&text=S.E+BOUESSE&ref=dp_byline_sr_book_1
+
+
+
+https://www.youtube.com/@kharYsma_arafat_nzaba
+
+
+
+https://www.artpal.com/kharysma
+
 # Important Note
 The name and logo of KharYsma Coins (KHACN) are protected under copyright. Unauthorized use is strictly prohibited.
 ![copyrightfrance-logo1](https://github.com/user-attachments/assets/c62e64dc-6090-4ea2-af4d-2c9ff106fee5)
