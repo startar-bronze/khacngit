@@ -49,7 +49,7 @@ Logo Url , https://github.com/startar-bronze/khacngit/blob/main/KHAC%20kharYsma%
 
 More Information
 
-Official Website: https://khacn.startarcoins.com (coming soon).
+Official Website: https://khacn.startarcoins.com , 
 Stay Updated: Follow the artist’s Facebook page for all major announcements, https://www.facebook.com/kharYsmaan
 
 # Adding NEW VERSION OF KHACN as a Custom Token on Trust Wallet and MetaMask
