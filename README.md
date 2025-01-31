@@ -1,6 +1,6 @@
 # OFFICIAL kharYsma coins Repo on github
 
-Offical website urh https://khacn.startarcoins.com
+Offical website url https://khacn.startarcoins.com
 
 #KharYsma Coins (KHACN) - A New Era of Tokenization
 
