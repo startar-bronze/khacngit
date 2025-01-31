@@ -73,7 +73,7 @@ Email: contact@startarcoins.com
 
 KHACN Coins is an innovative ERC20 token designed to transform decentralized finance (DeFi) by leveraging a real ecosystem from the vision and creations of international artist KharYsma Arafat NZABA. It is a utility token
 
-kharYsma coins is not a simple ERC20 token. It is a utility token based on the tangible assets of the artist KharYsma Arafat NZABA, including musical works, paintings, books and more. The goal of KHACN is to merge creative value with the infinite possibilities of blockchain and DeFi.
+kharYsma coins is not just a simple ERC20 token. It is a utility token based on the tangible assets of the artist KharYsma Arafat NZABA, including musical works, paintings, books and more. The goal of KHACN is to merge creative value with the infinite possibilities of blockchain and DeFi.
 
 The more good things there are in the life of the personality kharYsma Arafat NZABA, the better the khacn cryptocurrency will fare in the token market.
 
