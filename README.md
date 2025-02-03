@@ -37,7 +37,7 @@ https://t.me/gbtcryptohub
 
 Currently, the contract has just been deployed on uniswap, and is available for trading via the link https://app.uniswap.org/explore/tokens/ethereum/0x11c1b94294a7967092f747434dee4876eca5fd53?utm_source=share-tdp&utm_medium=web
 
-# KHAKN VIDEO PRESENTATION LINK https://youtu.be/rqpMrf2b2h8
+# KHACN VIDEO PRESENTATION LINK https://youtu.be/rqpMrf2b2h8
 
 # An Artistic and Utility-Driven Project
 
