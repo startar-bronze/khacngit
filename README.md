@@ -88,7 +88,7 @@ More Information
 Official Website: https://khacn.startarcoins.com , 
 Stay Updated: Follow the artist’s Facebook page for all major announcements, https://www.facebook.com/kharYsmaan
 
-# Adding NEW VERSION OF KHACN as a Custom Token on Trust Wallet and MetaMask
+# Adding NEW VERSION OF KHACN as a Custom Token on Trust Wallet and MetaMask OR OTHER WALLET
 
 # Trust Wallet:
 Open Trust Wallet and click on "Add Custom Token."
