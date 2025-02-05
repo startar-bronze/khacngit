@@ -24,6 +24,36 @@ Market Making: Automated liquidity management and token exchanges for efficient 
 
 Dynamic Growth: Automatic validation and adaptation to new platforms to support sustainable ecosystem expansion.
 
+# HOW TO EARN MONEY WITH KHACN BY BECOMING A LIQUIDITY PROVIDER?
+
+Earn even more and “Get ready for the next market boom. Add liquidity today and take advantage of it!”
+You must first hold ethereum in your crypto wallet
+
+Step 1: Connect your Ethereum wallet
+Use MetaMask or any other compatible platform to connect your wallet to Uniswap .
+
+Step 2: Go to the kharYsma coins page
+Access the following link directly: https://app.uniswap.org/explore/tokens/ethereum/0x11c1b94294a7967092f747434dee4876eca5fd53?utm_source=share-tdp&utm_medium=web
+
+Choose the profit you want to receive on each transaction
+
+Step 3: Connect your wallet, click on Pool, Add liquidity
+
+Set the price to 1 khacn = 550 usd minimum (approximately 0.20 eth according to the current rate)
+Never put 1 khacn below the value of 550 usd, in accordance with our smart contract, this will reject your system, and your investment may run at a loss.
+
+Select “Add Liquidity” and choose ETH + kharYsma coins ( 0x11c1b94294A7967092F747434dEE4876EcA5fD53 ) as pairs. Follow the instructions to complete the transaction
+
+# how to buy kharYsma coins (khacn)
+
+make sure you have added the kharYsma coins as a custom token in your wallet, using the address of our smart contract: 0x11c1b94294A7967092F747434dEE4876EcA5fD53
+
+-make sure you have ethereums on your wallet, go to our uniswap page and connect your crypto wallet, 
+
+uniswap link from khacn https://app.uniswap.org/explore/tokens/ethereum/0x11c1b94294a7967092f747434dee4876eca5fd53?utm_source=share-tdp&utm_medium=web
+
+- just follow the on-screen instructions on the swap side, and sign your crypto wallet when prompted, pay the gas fee, don't hesitate to wait for the gas fee to drop a little bit, and accept the swap. You should normally receive your khacn in your wallet very quickly
+- Take advantage of the changing prices of khac which are increasing every day
 # Current State:
 
 Version 1 of the khacn contract has been abandoned by the team, it was at the url below:
