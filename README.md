@@ -53,7 +53,7 @@ make sure you have added the kharYsma coins as a custom token in your wallet, us
 uniswap link from khacn https://app.uniswap.org/explore/tokens/ethereum/0x11c1b94294a7967092f747434dee4876eca5fd53?utm_source=share-tdp&utm_medium=web
 
 - just follow the on-screen instructions on the swap side, and sign your crypto wallet when prompted, pay the gas fee, don't hesitate to wait for the gas fee to drop a little bit, and accept the swap. You should normally receive your khacn in your wallet very quickly
-- Take advantage of the changing prices of khac which are increasing every day
+- Take advantage of the changing prices of khacn which are increasing every day
 # Current State:
 
 Version 1 of the khacn contract has been abandoned by the team, it was at the url below:
