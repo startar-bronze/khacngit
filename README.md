@@ -54,6 +54,7 @@ uniswap link from khacn https://app.uniswap.org/explore/tokens/ethereum/0x11c1b9
 
 - just follow the on-screen instructions on the swap side, and sign your crypto wallet when prompted, pay the gas fee, don't hesitate to wait for the gas fee to drop a little bit, and accept the swap. You should normally receive your khacn in your wallet very quickly
 - Take advantage of the changing prices of khacn which are increasing every day
+  
 # Current State:
 
 Version 1 of the khacn contract has been abandoned by the team, it was at the url below:
@@ -115,6 +116,11 @@ Access the following link directly: https://app.uniswap.org/explore/tokens/ether
 
 Step 3: Connect your wallet, Choose Pool, Add liquidity
 Select “Add Liquidity” and choose ETH + kharYsma coins as pairs. Follow the instructions to complete the transaction
+
+
+# KHACN LEGAL OPINION
+
+# [LEGAL OPINION LINK CLICK HERE](https://drive.google.com/file/d/1SHJuhibLiRYMQVUqv6LyXazL-RSffkSE/view?usp=sharing)
 
 # RESUME
 
