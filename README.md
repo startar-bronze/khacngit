@@ -10,7 +10,7 @@ Offical website url https://khacn.startarcoins.com
 
 KharYsma Coins (KHACN) is an ERC20 token designed to revolutionize decentralized finance (DeFi). With advanced features like liquidity management, automated market making, and multi-platform integration, KHACN bridges the gap between traditional economic models and modern DeFi innovations.
 
-# See NEW URL OF khacn on etherscan , https://etherscan.io/address/0x11c1b94294A7967092F747434dEE4876EcA5fD53
+# See NEW URL OF khacn on etherscan , https://etherscan.io/token/0x11c1b94294A7967092F747434dEE4876EcA5fD53
 
 # Key Features
 
@@ -59,7 +59,7 @@ uniswap link from khacn https://app.uniswap.org/explore/tokens/ethereum/0x11c1b9
 
 Version 1 of the khacn contract has been abandoned by the team, it was at the url below:
 https://etherscan.io/address/0xda0ba67e1801d0c31f1cafb8197f1db4a52dbcab#code
-This is version 2 of the contract that has been adopted, and is now deployed with the url https://etherscan.io/address/0x11c1b94294A7967092F747434dEE4876EcA5fD53
+This is version 2 of the contract that has been adopted, and is now deployed with the url https://etherscan.io/token/0x11c1b94294A7967092F747434dEE4876EcA5fD53
 
 The rest of the updates will be posted on our social networks below:
 https://x.com/xforstartarcoin
@@ -163,6 +163,8 @@ https://www.youtube.com/@kharYsma_arafat_nzaba
 
 
 https://www.artpal.com/kharysma
+
+etherscan: https://etherscan.io/address/0x11c1b94294A7967092F747434dEE4876EcA5fD53
 
 # Important Note
 
