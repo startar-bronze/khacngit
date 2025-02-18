@@ -6,7 +6,7 @@ Offical website url https://khacn.startarcoins.com
 
 ![KHAC kharYsma coin Logo MINI](https://github.com/user-attachments/assets/587d362b-dcf1-42a4-881d-f5a8a53d3705)
 
-# [DIRECT KHACN WEBSITE URL CLICK HERE](https://gbtprestige.github.io/khacnwebsite/)
+# [DIRECT KHACN WEBSITE URL CLICK HERE](https://startar-bronze.github.io/khacntemplate/)
 
 KharYsma Coins (KHACN) is an ERC20 token designed to revolutionize decentralized finance (DeFi). With advanced features like liquidity management, automated market making, and multi-platform integration, KHACN bridges the gap between traditional economic models and modern DeFi innovations.
 
