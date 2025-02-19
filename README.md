@@ -72,7 +72,7 @@ Currently, the contract has just been deployed on uniswap, and is available for 
 
 # An Artistic and Utility-Driven Project
 
-The name and identity of KharYsma Coins (KHACN) are inspired by the international artist KharYsma Arafat NZABA, a multi-talented individual: musician, painter, writer, photographer, and government official. KHACN is based on a real and tangible ecosystem, including the artist’s creations (books, music, artworks), which you can explore on the official website https://kharysma-an.fr
+The name and identity of KharYsma Coins (KHACN) are inspired by the international artist KharYsma Arafat NZABA, a multi-talented individual: musician, painter, writer, photographer, and government official. KHACN is based on a real and tangible ecosystem, including the artist’s creations (books, music, artworks), which you can explore on the official website https://www.kharysma-an.fr
 
 # Website and Whitepaper
 
